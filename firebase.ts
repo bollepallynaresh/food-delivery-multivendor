@@ -27,13 +27,13 @@ export const initialize = (config: IFirebaseConfig): Messaging | null => {
     }
 
     const firebaseConfig = {
-  apiKey: "AIzaSyBMC16d-mWpG9mtyX5ml67h0GZo2fhkwX4",
-  authDomain: "mana-kuntloor-1.firebaseapp.com",
-  databaseURL: "https://mana-kuntloor-1-default-rtdb.firebaseio.com",
-  projectId: "mana-kuntloor-1",
-  storageBucket: "mana-kuntloor-1.firebasestorage.app",
-  messagingSenderId: "338731555945",
-  appId: "1:338731555945:web:d9180f973623593d7496f8"
+  apiKey: "AIzaSyBcCr0Dcim42LdYH3nZHHvuFLeImhpfm9c",
+  authDomain: "hayath-nagar.firebaseapp.com",
+  databaseURL: "https://hayath-nagar-default-rtdb.firebaseio.com",
+  projectId: "hayath-nagar",
+  storageBucket: "hayath-nagar.firebasestorage.app",
+  messagingSenderId: "531898348233",
+  appId: "1:531898348233:web:2bd8ed6c08a54b31875318"
 };
 
     // Initialize Firebase
